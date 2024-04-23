@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @jbaldwingsu
 - 👀 I’m interested in backend software development
 - 🌱 I’m currently graduating from Georgia Southern in Computer Science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+
+- 📫 Contact Me: jb56462@georgiasouthern.edu
+
 
 <!---
 jbaldwingsu/jbaldwingsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
